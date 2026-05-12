@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.com.frilo_vendor",
+    "sha256_cert_fingerprints": ["9A:3B:20:1A:D4:40:D5:14:26:80:1A:7A:8D:BA:51:36:00:7C:85:E2:B0:E9:7F:B8:77:B7:C3:75:17:F1:66:24"]
+  }
+}]
